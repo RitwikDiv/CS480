@@ -40,11 +40,16 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 ## Teaching Assistants
 
-Xu Ouyang
-
-Office hours: Wednesdays 9am - 11am <br>
+Xu Ouyang <br>
+Office hours: Fridays 10am - 12pm <br>
 Office: Stuart Building 110 <br>
 Email: xouyang3@hawk.iit.edu
+
+Akshay Sunku <br>
+Office hours: Thursdays 1pm - 3pm <br>
+Office: Stuart Building 019 <br>
+Email: asunku@hawk.iit.edu
+
 
 ## Programming Language
 
